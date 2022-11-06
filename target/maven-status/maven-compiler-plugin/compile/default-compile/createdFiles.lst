@@ -1,0 +1,17 @@
+View\Helper\TelaCadastroProdutoHelper.class
+Model\DAO\ProdutoDAO.class
+Controller\TelaCadastroPedidoController.class
+Model\Pedido.class
+Model\Produto.class
+Controller\TelaCadastroProdutoController.class
+View\TelaInicial.class
+View\TelaCadastroProduto.class
+View\Helper\TelaCadastroPedidoHelper.class
+View\TelaInicial$1.class
+View\TelaCadastroPedido$1.class
+Model\DAO\PedidoDAO.class
+Model\ItemPedido.class
+Model\Repository\PedidoRepository.class
+Model\Repository\ProdutoRepository.class
+View\TelaCadastroPedido.class
+View\TelaCadastroProduto$1.class
